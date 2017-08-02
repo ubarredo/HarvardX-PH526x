@@ -35,7 +35,6 @@ Introduction to Python modules commonly used in scientific computation, such as 
 This collection of six case studies from different disciplines provides opportunities to practice Python research skills.
 
 <p align="center">
-  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/areas_ratio.png">
   <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/bird_migration_1.png">
   <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/bird_migration_4.png">
   <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/classifying_whiskies_1.png">
