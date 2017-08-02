@@ -33,3 +33,15 @@ Introduction to Python modules commonly used in scientific computation, such as 
 **Weeks 3 & 4: Case Studies**
 
 This collection of six case studies from different disciplines provides opportunities to practice Python research skills.
+
+<p align="center">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/areas_ratio.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/bird_migration_1.png" width="700">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/bird_migration_4.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/classifying_whiskies_1.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/k_nearest_neighbors.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/language_processing.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/random_walks.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/social_network_analysis_2.png" width="500">
+  <img src="https://github.com/ubarredo/HarvardX-PH526x/blob/master/plots/wine_classification.png" width="500">
+</p>
